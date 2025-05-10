@@ -1,2 +1,2 @@
 # Computer_Graphic
-The Project of Software &amp; Hardware 
+The Project of Software 
