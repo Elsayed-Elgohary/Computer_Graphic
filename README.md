@@ -18,7 +18,7 @@ The AI uses a simple decision-making strategy:
 - Blocks opponent from winning if possible.
 - Prioritizes center, corners, then sides for optimal play.
 
-### ⚙ Technical Concepts Used:
+###  Technical Concepts Used:
 - **OpenGL Functions**: `glBegin`, `glVertex`, `glEnd`, `glClear`, `glFlush`, etc.
 - **Mouse Input Handling**: Detecting player clicks and responding accordingly.
 - **Game State Management**: Managing turns, checking win conditions.
